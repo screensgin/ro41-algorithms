@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\bin\Debug\net10.0\srsp.exe
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\bin\Debug\net10.0\srsp.deps.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\bin\Debug\net10.0\srsp.runtimeconfig.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\bin\Debug\net10.0\srsp.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\bin\Debug\net10.0\srsp.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.AssemblyInfo.cs
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\refint\srsp.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\srsp.genruntimeconfig.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t01\srsp\obj\Debug\net10.0\ref\srsp.dll
