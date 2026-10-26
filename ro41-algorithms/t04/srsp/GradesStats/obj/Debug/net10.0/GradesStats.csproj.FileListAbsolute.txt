@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\bin\Debug\net10.0\GradesStats.exe
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\bin\Debug\net10.0\GradesStats.deps.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\bin\Debug\net10.0\GradesStats.runtimeconfig.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\bin\Debug\net10.0\GradesStats.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\bin\Debug\net10.0\GradesStats.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.AssemblyInfo.cs
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.sourcelink.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\refint\GradesStats.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\GradesStats.genruntimeconfig.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t04\srsp\GradesStats\obj\Debug\net10.0\ref\GradesStats.dll
