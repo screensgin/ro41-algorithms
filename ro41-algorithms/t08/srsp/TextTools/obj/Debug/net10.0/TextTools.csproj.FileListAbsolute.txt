@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\bin\Debug\net10.0\TextTools.exe
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\bin\Debug\net10.0\TextTools.deps.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\bin\Debug\net10.0\TextTools.runtimeconfig.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\bin\Debug\net10.0\TextTools.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\bin\Debug\net10.0\TextTools.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.AssemblyInfo.cs
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.sourcelink.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\refint\TextTools.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\TextTools.genruntimeconfig.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t08\srsp\TextTools\obj\Debug\net10.0\ref\TextTools.dll
