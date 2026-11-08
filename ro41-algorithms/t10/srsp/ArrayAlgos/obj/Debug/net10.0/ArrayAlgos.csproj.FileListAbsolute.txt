@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\bin\Debug\net10.0\ArrayAlgos.exe
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\bin\Debug\net10.0\ArrayAlgos.deps.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\bin\Debug\net10.0\ArrayAlgos.runtimeconfig.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\bin\Debug\net10.0\ArrayAlgos.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\bin\Debug\net10.0\ArrayAlgos.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.AssemblyInfo.cs
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.sourcelink.json
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\refint\ArrayAlgos.dll
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.pdb
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ArrayAlgos.genruntimeconfig.cache
+C:\Users\asus\Desktop\информатика\ro41-algorithms\t10\srsp\ArrayAlgos\obj\Debug\net10.0\ref\ArrayAlgos.dll
